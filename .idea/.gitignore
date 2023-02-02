@@ -1,0 +1,59 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Java class files
+*.class
+
+# Compiled JSP files
+*.jsp
+
+# Log files
+*.log
+
+# Gradle build files
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Maven target directory
+target/
+
+# NetBeans project files
+nbproject/
+private/
+dist/
+nbbuild/
+nbdist/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
